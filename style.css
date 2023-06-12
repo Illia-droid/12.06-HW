@@ -1,6 +1,9 @@
 body{
     background-color: aquamarine;
 }
-p{
+p
+{
     align-items: center;
+    margin-top: 20px;
+
 }
